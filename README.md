@@ -61,9 +61,15 @@ pip install -r requirements.txt
 ## Challenges & Solutions        
 
    Initially, I encountered some obstacles in getting the LLM API key for free. Later, I came across Groq, an inference tool for LLM models, which provides free API keys and chose it.
+
+   Storing the collected data into a csv file is somewhere I faced difficulty in. Later, the solution I came with was overwriting the csv file in locally each time the user raises the prompt.  
+
+
   * #### Expanding the scope:   
      1. *Voice-enabled Search:* Integration of voice-enabled search with Speech to text and Text to Speech features can make it more user-friendly.
+     2. *Storing details in cloud:* Storing of details automatically in the cloud can reduce consuming local storage.
 
 
 ## UI Appearance
-<img src="https://yourimageshare.com/ib/flBHwi1sU0.png" width=800 >
+
+<img src="https://yourimageshare.com/ib/flBHwi1sU0.png" width=600 height=300>
