@@ -1,7 +1,7 @@
 
 # Hiring Assistant ChatBot
 
-An hiring assistant chatbot that assist in the initial screening of candidates by gathering essential information and posing relevant technical questions based on the candidate's declared tech stack.
+An hiring assistant chatbot that assists in the initial screening of candidates by gathering essential information and posing relevant technical questions based on the candidate's declared tech stack.
 
 ## Project Overview
 
@@ -28,11 +28,11 @@ pip install -r requirements.txt
 ## Technical Details
 
 #### Streamlit: 
-   An open-source Python library that makes it easy to create and share custom web apps for machine learning and data science. I've chosen Streamlit for this project, because I found it more appropriate to integrate ChatBot feature in this app as it is already inbuilt with it.
+   An open-source Python library that makes it easy to create and share custom web apps for machine learning and data science. I've chosen Streamlit for this project, because I found it more appropriate to integrate the ChatBot feature in this app as it is already inbuilt with it.
 
 #### Groq:
 
-   It is an inference for LLM models. It's API is a free-to-use tool. The model used includes meta-llama's **llama-4-scout-17b-16e-instruct**    
+   It is an inference for LLM models. Its API is a free-to-use tool. The model used includes meta-llama's **llama-4-scout-17b-16e-instruct**    
 
 
 ## Prompt Design
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 * #### Organization:
    Describing the **structure** of output.    
 
-   Deliver the messages based on the language preferred by the user. Gather informations like Full Name, Email Address, Phone Number, Years of Experience, Desired Positions, Current Location and Tech Stacks. Then generate total of 3-5 technical questions to assess the candidates profiency in the stacks mentioned. 
+   Deliver the messages based on the language preferred by the user. Gather informations like Full Name, Email Address, Phone Number, Years of Experience, Desired Positions, Current Location and Tech Stacks. Then generate total of 3-5 technical questions to assess the candidates proficiency in the stacks mentioned. 
 
 * #### Purpose:
    Identify the **rhetorical purpose**
