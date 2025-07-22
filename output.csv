@@ -1,0 +1,37 @@
+role,content
+user,hello
+assistant,"Hello! Welcome to our recruitment agency. We're excited to learn more about your tech background and help you find a great opportunity.
+
+To get started, could you please share your full name with me?"
+user,hola
+assistant,"¡Hola! No hay problema, podemos conversar en inglés si lo prefieres. 
+
+To proceed, could you please share your full name with me?"
+user,namaste
+assistant,"Namaste! I can switch to Hindi if you'd like, but for simplicity, let's continue in English.
+
+To move forward, could you please share your full name with me?"
+user,vanakkam
+assistant,"Vanakkam! I'm glad you're comfortable with the greetings.
+
+To proceed, could you please share your full name with me?"
+user,dhanyawad
+assistant,"Dhanyawad! Thank you for the appreciation.
+
+To move forward, could you please share your full name with me?"
+user,thank you
+assistant,"You're welcome!
+
+Now, let's get started. Could you please share your full name with me?"
+user,who are you
+assistant,"I'm an intelligent hiring assistant working for a recruitment agency specializing in technology placements. I can help you find a great tech job opportunity. My purpose is to gather some information from you to better understand your background and preferences. 
+
+Let's start fresh! Could you please share your full name with me?"
+user,logi vasan
+assistant,"Logi Vasan!
+
+Next, could you please share your email address with me?"
+user,lo@g
+assistant,"Almost there, Logi! Just to confirm, could you please complete your email address? For example, you can add a domain like @gmail.com or @example.com.
+
+Example: logi.vasan@gmail.com"
