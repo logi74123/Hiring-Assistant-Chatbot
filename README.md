@@ -20,6 +20,10 @@ Just download the repository and install the libraries altogether from **require
 ```http
 pip install -r requirements.txt
 ```
+* #### API Reference
+
+   *Note:* Input your groq API Key in **config.json** before running the program.
+
 
 ## Technical Details
 
